@@ -1,0 +1,5 @@
+{
+  "name": "4Seasons - Probador Virtual 1",
+  "description": "An AI-powered photo editing app for the '4Seasons' clothing store. Users can upload a photo and virtually try on different outfits, generating four marketing-quality images in various settings.",
+  "requestFramePermissions": []
+}
